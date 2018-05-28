@@ -1,0 +1,33 @@
+[
+    {
+        "nombre" : "Luis",
+        "apellido" : "Gomez",
+        "edad" : 25,
+        "salario" : 2000
+    },
+    {
+        "nombre" : "Cristian",
+        "apellido" : "Silva",
+        "edad" : 28,
+        "salario" : 3000
+    },
+    {
+        "nombre" : "Juan",
+        "apellido" : "Fernandez",
+        "edad" : 30,
+        "salario" : 3500
+    },
+    {
+        "nombre" : "Pedro",
+        "apellido" : "Juarez",
+        "edad" : 33,
+        "salario" : 2500
+    },
+    {
+        "nombre" : "Maria",
+        "apellido" : "Lopez",
+        "edad" : 45,
+        "salario" : 5000
+    }
+]
+ 
